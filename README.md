@@ -425,8 +425,8 @@ Install:
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/Jayashri360/AI-Powered-Customer-Support-System
+cd AI-Powered-Customer-Support-System
 ```
 
 ### Restore Dependencies
@@ -509,16 +509,6 @@ AI Agents
 ## 📌 Project Status
 
 🚧 **Under Active Development**
-
-The initial development focuses on building the traditional Customer Support System and establishing strong Clean Architecture boundaries.
-
-AI functionality will be introduced progressively after the core application functionality is established.
-
-## 📄 License
-
-Add the appropriate license for this repository before public distribution.
-
----
 
 **AI-Powered Customer Support System**
 Built with **ASP.NET Core • .NET 10 • EF Core • SQL Server • Clean Architecture**
